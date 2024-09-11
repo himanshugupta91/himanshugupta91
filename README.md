@@ -9,7 +9,7 @@
 
 🧑🏻‍💻 My 100DaysOfSwiftUI projects - 
 ✉️ Mail me at - [My email](mailto:hg1480144@gmail.com) 
-Feel free to reach me on Twitter and LinkedIn<br><br>
+Feel free to reach me on Twitter and LinkedIn
 </br>
 </br>
 </br>
