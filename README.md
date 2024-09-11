@@ -1,14 +1,20 @@
 <h1 align="center"> Hello there, I'm Himanshu Gupta👋 </h1>
 
-<br>I am an iOS Developer & java programmer based in India.
-<br>I make iOS/iPadOS apps & games using technologies like Swift, UIKit, SpriteKit & more. I also have experience in Data Structures.
-<br><br>I focus on building apps & games for Apple's platforms using User-Intuitive design that helps make users' lives easier, helping them get the best out of their devices.
-<br><br>🎓 I am a B.Tech(CSE) student at AKTU, Lucknow (Batch 2022 - 2026)<br>
-💼 My online portfolio - 
-<br>🧑🏻‍💻 My 100DaysOfSwift projects - <br>
-✉️ Mail me at - hg1480144@gmail.com<br>💬 
-Feel free to reach me on Twitter and LinkedIn<br><br>
+<h3> I am an iOS Developer & JAVA programmer based in India. </h3>
+<p> I make iOS/iPadOS apps & games using technologies like Swift, UIKit, SpriteKit & more. I also have experience in Data Structures.</p>
+<p>I focus on building apps & games for Apple's platforms using User-Intuitive design that helps make users' lives easier, helping them get the best out of their devices. 
+</p>
 
+<br><br>🎓 I am a B.Tech(CSE) student at AKTU, Lucknow (Batch 2022 - 2026)<br>
+
+🧑🏻‍💻 My 100DaysOfSwiftUI projects - 
+✉️ Mail me at - [My email](mailto:hg1480144@gmail.com) 
+Feel free to reach me on Twitter and LinkedIn<br><br>
+</br>
+</br>
+</br>
+</br>
+<h1> GitHub Stats </h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshu-gupta-166675202) 
