@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"> Hello there, I'm Himanshu Gupta👋 </h1>
 Hello there, I'm Himanshu Gupta👋
 <br>I am an iOS Developer & java programmer based in Delhi, India.
 <br>I make iOS/iPadOS apps & games using technologies like Swift, UIKit, SpriteKit & more. I also have experience in Data Structures.
@@ -6,7 +6,7 @@ Hello there, I'm Himanshu Gupta👋
 <br><br>🎓 I am a B.Tech(CSE) student at AKTU, Lucknow (Batch 2022 - 2026)<br>
 💼 My online portfolio - 
 <br>🧑🏻‍💻 My 100DaysOfSwift projects - <br>
-✉️ Mail me at - hg1480144@gmail.com<br>💬 
+✉️ Mail me at - [My email](mailto:hg1480144@gmail.com)<br>💬 
 Feel free to reach me on Twitter and LinkedIn<br><br>
 
 
