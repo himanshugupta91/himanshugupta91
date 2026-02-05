@@ -23,8 +23,7 @@
   <b>🔭 I’m currently working on Scalable Backend Systems</b>
   <br/>
   <b>🌱 I’m currently learning Cloud Native Patterns</b>
-  <br/>
-  <b>👯 I’m looking to collaborate on Open Source Java Projects</b>
+
   <br/>
   <b>💬 Ask me about Java, Spring Boot, MySQL</b>
   <br/>
