@@ -18,42 +18,40 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <td valign="center" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <br/>
-      <ul>
-        <li>🔭 I’m currently working on <b>Scalable Microservices</b></li>
-        <li>🌱 I’m currently learning <b>Cloud Native Patterns</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Java Projects</b></li>
-        <li>💬 Ask me about <b>Java, Spring Boot, MySQL</b></li>
-        <li>⚡ Fun fact: <b>I can debug code in my sleep (almost)</b></li>
-      </ul>
-      <br/>
-      <h3>🔧 Tech Stack</h3>
-      <p><b>Backend:</b></p>
-      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis&perline=7" />
-      <br/><br/>
-      <p><b>DevOps & Tools:</b></p>
-      <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,idea&perline=6" />
-      <br/><br/>
-      <p><b>Frontend (Basic):</b></p>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=6" />
-    </td>
-    <td valign="center" width="50%">
-      <h3>📊 GitHub Stats</h3>
-      <div align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" />
-        <br/><br/>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <br/>
+  <b>🔭 I’m currently working on Scalable Microservices</b>
+  <br/>
+  <b>🌱 I’m currently learning Cloud Native Patterns</b>
+  <br/>
+  <b>👯 I’m looking to collaborate on Open Source Java Projects</b>
+  <br/>
+  <b>💬 Ask me about Java, Spring Boot, MySQL</b>
+  <br/>
+  <b>⚡ Fun fact: I can debug code in my sleep (almost)</b>
+</div>
+
+<br/>
 
 <div align="center">
-  <h3>🔥 Commit Streak</h3>
+  <h2>🔧 Tech Stack</h2>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea,react,js,html,css&perline=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🔥 Commit Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugupta91&theme=radical&hide_border=true" alt="himanshugupta91's Streak" />
 </div>
 
