@@ -10,46 +10,57 @@
 
 <br/>
 
-<div align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
+<!-- Main Content Grid -->
+<table width="100%">
+  <tr>
+    <td width="45%" align="left" valign="top">
+      
+      <!-- ABOUT ME -->
+      <div align="center">
+        <img src="https://img.shields.io/badge/About%20Me-7A00E6?style=for-the-badge&logoColor=white" alt="About Me" />
+      </div>
+      <br/>
+      <b>🔭 I’m currently working on Scalable Backend Systems</b>
+      <br/>
+      <b>🌱 I’m currently learning Cloud Native Patterns</b>
+      <br/>
+      <b>💬 Ask me about Java, Spring Boot, MySQL</b>
+      <br/>
+      <b>⚡ Fun fact: I can debug code in my sleep (almost)</b>
+      <br/><br/>
 
-<hr/>
+      <!-- CONNECT -->
+      <div align="center">
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+      </div>
+      <br/><br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/About%20Me-7A00E6?style=for-the-badge&logoColor=white" alt="About Me" />
-  <br/><br/>
-  <b>🔭 I’m currently working on Scalable Backend Systems</b>
-  <br/>
-  <b>🌱 I’m currently learning Cloud Native Patterns</b>
+      <!-- TECH STACK -->
+      <div align="center">
+        <img src="https://img.shields.io/badge/Tech%20Stack-7A00E6?style=for-the-badge&logoColor=white" alt="Tech Stack" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea,react,js,html,css&perline=6" />
+      </div>
 
-  <br/>
-  <b>💬 Ask me about Java, Spring Boot, MySQL</b>
-  <br/>
-  <b>⚡ Fun fact: I can debug code in my sleep (almost)</b>
-</div>
+    </td>
+    <td width="55%" align="center" valign="top">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-7A00E6?style=for-the-badge&logoColor=white" alt="Tech Stack" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea,react,js,html,css&perline=10" />
-</div>
+      <!-- STATS -->
+      <img src="https://img.shields.io/badge/GitHub%20Stats-7A00E6?style=for-the-badge&logoColor=white" alt="GitHub Stats" />
+      <br/><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=himanshugupta91&theme=radical&no-frame=true&margin-w=10" alt="Trophies" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugupta91&theme=react-dark" alt="Activity Graph" width="100%" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Commit%20Streak-7A00E6?style=for-the-badge&logoColor=white" alt="Commit Streak" />
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugupta91&theme=radical&hide_border=true" alt="himanshugupta91's Streak" width="100%" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-7A00E6?style=for-the-badge&logoColor=white" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshugupta91&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugupta91&theme=react-dark" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Commit%20Streak-7A00E6?style=for-the-badge&logoColor=white" alt="Commit Streak" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugupta91&theme=radical&hide_border=true" alt="himanshugupta91's Streak" />
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
