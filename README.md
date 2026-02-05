@@ -37,8 +37,8 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
