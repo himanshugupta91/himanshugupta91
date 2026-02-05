@@ -40,8 +40,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&text=GitHub%20Stats&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshugupta91&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-  <br/><br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugupta91&theme=react-dark" alt="Activity Graph" />
   <br/><br/>
   <!-- Commit Streak is always reliable -->
