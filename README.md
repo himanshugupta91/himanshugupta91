@@ -19,7 +19,8 @@
 <hr/>
 
 <div align="center">
-  <h3>👨‍💻 About Me</h3>
+  <img src="https://img.shields.io/badge/About%20Me-7A00E6?style=for-the-badge&logoColor=white" alt="About Me" />
+  <br/><br/>
   <b>🔭 I’m currently working on Scalable Backend Systems</b>
   <br/>
   <b>🌱 I’m currently learning Cloud Native Patterns</b>
@@ -31,18 +32,21 @@
 </div>
 
 <div align="center">
-  <h3>🔧 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Tech%20Stack-7A00E6?style=for-the-badge&logoColor=white" alt="Tech Stack" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea,react,js,html,css&perline=10" />
 </div>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <img src="https://img.shields.io/badge/GitHub%20Stats-7A00E6?style=for-the-badge&logoColor=white" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <h3>🔥 Commit Streak</h3>
+  <img src="https://img.shields.io/badge/Commit%20Streak-7A00E6?style=for-the-badge&logoColor=white" alt="Commit Streak" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugupta91&theme=radical&hide_border=true" alt="himanshugupta91's Streak" />
 </div>
 
