@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&text=Tech%20Stack&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea,react,js,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea&perline=10" />
 </div>
 
 <br/>
