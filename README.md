@@ -40,8 +40,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-7A00E6?style=for-the-badge&logoColor=white" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshugupta91&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugupta91&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshugupta91&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugupta91&theme=react-dark" alt="Activity Graph" />
 </div>
 
 <div align="center">
