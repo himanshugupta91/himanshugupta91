@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Building+Microservices;Spring+Boot+Expert;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <br/>
-  <b>🔭 I’m currently working on Scalable Microservices</b>
+  <b>🔭 I’m currently working on Scalable Backend Systems</b>
   <br/>
   <b>🌱 I’m currently learning Cloud Native Patterns</b>
   <br/>
