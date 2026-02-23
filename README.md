@@ -1,54 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'm%20Himanshu%20Gupta&descAlignY=55&descAlign=60" width="100%"/>
-</div>
+# Hi, I'm Himanshu Gupta 👋
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+Expert" alt="Typing SVG" />
-  </a>
-</div>
+I’m a java developer who loves building things that feel smooth, work fast, and look good.
 
-<br/>
+---
 
-<!-- ABOUT ME -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&text=About%20Me&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
-  <br/><br/>
-  <b>🔭 I’m currently working on Scalable Backend Systems</b>
-  <br/>
-  <b>🌱 I’m currently learning Cloud Native Patterns</b>
-  <br/>
-  <b>💬 Ask me about Java, Spring Boot, MySQL</b>
-  <br/>
-  <b>⚡ Fun fact: I can debug code in my sleep (almost)</b>
-</div>
+### 🚀 About Me
 
-<br/>
+- 🔭 I’m currently working on **Java projects**.
+- 🌱 I’m learning **Data Structures and Algorithms**.
+- 💬 Feel free to ask me about **Java, SQL**.
+- ✍️ Passionate about writing **clean, efficient, and maintainable code**.
+- 🌟 Always keen to learn **new technologies** and improve my **problem-solving skills**.
 
+---
 
+## Featured Projects
 
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&text=Tech%20Stack&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,redis,docker,aws,git,linux,postman,idea&perline=10" />
-</div>
+- **[CoinX](https://github.com/himanshugupta91/CoinX-Cryptocurrency-Trading-Platform)** - A cryptocurrency trading platform, built with Spring Boot backend. This application provides real-time trading capabilities, wallet management, portfolio tracking, and secure payment processing.
+- **[Foodo](https://github.com/himanshugupta91/Foodo-Online-Food-Delivery-Platform)** - A production-grade,food ordering platform built with Spring Boot
+- **[AuthSystem](https://github.com/himanshugupta91/Full-Stack-Authentication-System)** - A modern, authentication system featuring a premium Matrix-inspired Glassmorphism UI. Built with Spring Boot 3, this project combines robust security with a stunning, high-performance frontend.
+- **[TicketForge](https://github.com/himanshugupta91/TicketForge-Event-Ticket-Platform)** - A secure, high-performance backend platform for managing event lifecycles and ticket distribution.
 
-<br/>
+## All projects
 
-<!-- STATS -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&text=GitHub%20Stats&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" />
-  <br/><br/>
+- **[ExamPro](https://github.com/himanshugupta91/ExamPro-Professional-Digital-Examination-Platform-)** - **[Still Working]** ExamPro is a secure, scalable digital examination platform designed for high-stakes assessments. It features real-time proctoring, role-based access control, and automated grading to ensure integrity and efficiency.
+- **[CoinX](https://github.com/himanshugupta91/CoinX-Cryptocurrency-Trading-Platform)** - A cryptocurrency trading platform, built with Spring Boot backend. This application provides real-time trading capabilities, wallet management, portfolio tracking, and secure payment processing.
+- **[Foodo](https://github.com/himanshugupta91/Foodo-Online-Food-Delivery-Platform)** - A production-grade,food ordering platform built with Spring Boot
+- **[AuthSystem](https://github.com/himanshugupta91/Full-Stack-Authentication-System)** - A modern, authentication system featuring a premium Matrix-inspired Glassmorphism UI. Built with Spring Boot 3, this project combines robust security with a stunning, high-performance frontend.
+- **[TicketForge](https://github.com/himanshugupta91/TicketForge-Event-Ticket-Platform)** - A secure, high-performance backend platform for managing event lifecycles and ticket distribution.
+- **[TaskFlow](https://github.com/himanshugupta91/TaskFlow-Full-Stack-Task-Management-Application)** - a simple todo app, for productivity
+- **[Hospital Management System](https://github.com/himanshugupta91/Hospital-Management-System)** - A comprehensive Hospital Management System built with Java and MySQL that streamlines hospital operations through an intuitive command-line interface. This system leverages Object-Oriented Programming (OOP) principles to efficiently manage patients, doctors, and appointments.
+- **[BankingSystem](https://github.com/himanshugupta91/java/tree/main/src/BankingSystemWithJdbc)** - Just a Banking System with JDBC
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshugupta91&theme=react-dark" alt="Activity Graph" />
-  <br/><br/>
-  <!-- Commit Streak is always reliable -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugupta91&theme=radical&hide_border=true" alt="himanshugupta91's Streak" />
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+*"Building solutions that matter, one commit at a time."*
